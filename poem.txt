@@ -1,2 +1,1 @@
-
-yqioj
+social network for projects that are managed to git
